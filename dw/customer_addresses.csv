@@ -1,0 +1,395 @@
+address_id,customer_id,address_type,street,city,province,country_code,postal_code,created_at,is_primary
+1,1,shipping,Dorrego 2854,Mendoza,Santa Fe,AR,2251,2025-01-22 19:04:36,true
+2,1,billing,Guemes 3276,Neuquén,CABA,AR,6724,2025-01-22 19:04:36,true
+3,2,shipping,Dorrego 9336,Salta,Neuquén,AR,8354,2024-11-09 07:10:56,true
+4,3,shipping,Av. Santa Fe 5866,Comodoro Rivadavia,Mendoza,AR,9312,2024-09-16 16:00:40,true
+5,3,billing,Av. Santa Fe 1032,Salta,Neuquén,AR,7041,2024-09-16 16:00:40,true
+6,4,shipping,Urquiza 8314,Comodoro Rivadavia,Tucumán,AR,3471,2025-03-17 13:59:54,true
+7,5,shipping,Guemes 2700,Neuquén,Neuquén,AR,6962,2025-03-16 23:31:29,true
+8,5,billing,Lavalle 5643,San Miguel de Tucumán,Mendoza,AR,1857,2025-03-16 23:31:29,true
+9,6,shipping,Reconquista 1435,Mar del Plata,Entre Ríos,AR,3317,2025-06-13 14:04:27,true
+10,7,shipping,Mitre 7037,La Plata,Chubut,AR,9331,2024-08-13 11:16:17,true
+11,7,billing,Av. Belgrano 3609,Rosario,Tucumán,AR,6598,2024-08-13 11:16:17,true
+12,8,shipping,Mitre 5617,Buenos Aires,Chubut,AR,3147,2024-08-09 10:46:10,true
+13,8,billing,Av. Belgrano 2812,Mar del Plata,Córdoba,AR,8170,2024-08-09 10:46:10,true
+14,9,shipping,Av. Rivadavia 5170,Neuquén,Santa Fe,AR,8684,2024-10-30 16:10:22,true
+15,10,shipping,Av. Belgrano 4196,Comodoro Rivadavia,Santa Fe,AR,1854,2025-07-29 10:15:32,true
+16,11,shipping,Lavalle 1602,Mar del Plata,Chubut,AR,4637,2025-03-22 04:32:21,true
+17,12,shipping,Alsina 5593,La Plata,Tucumán,AR,3392,2025-03-15 13:36:55,true
+18,12,billing,Alsina 2373,Salta,Mendoza,AR,8685,2025-03-15 13:36:55,true
+19,13,shipping,Av. Rivadavia 5034,Rosario,CABA,AR,2996,2024-11-09 07:51:06,true
+20,13,billing,Dorrego 7589,Paraná,Salta,AR,2029,2024-11-09 07:51:06,true
+21,14,shipping,Sarmiento 6925,Córdoba,Tucumán,AR,4068,2025-03-21 20:56:12,true
+22,15,shipping,Calle San Martín 366,Mendoza,Salta,AR,6850,2025-04-05 18:28:16,true
+23,16,shipping,Urquiza 7940,Paraná,Córdoba,AR,3986,2025-07-23 12:06:23,true
+24,17,shipping,Calle San Martín 699,Salta,Chubut,AR,4131,2024-07-23 07:15:44,true
+25,17,billing,Reconquista 4576,Paraná,Buenos Aires,AR,3039,2024-07-23 07:15:44,true
+26,18,shipping,Dorrego 1453,Rosario,Chubut,AR,7955,2025-01-14 12:20:38,true
+27,18,billing,Guemes 4913,Mar del Plata,Entre Ríos,AR,6262,2025-01-14 12:20:38,true
+28,19,shipping,Alsina 5876,Buenos Aires,Neuquén,AR,8126,2024-12-04 16:14:07,true
+29,19,billing,Mitre 6755,La Plata,Buenos Aires,AR,6952,2024-12-04 16:14:07,true
+30,20,shipping,Lavalle 9393,Mendoza,Tucumán,AR,1530,2025-05-08 15:57:12,true
+31,21,shipping,Av. Corrientes 524,Córdoba,Mendoza,AR,4048,2024-08-09 20:53:45,true
+32,21,billing,Av. Corrientes 4388,Neuquén,Salta,AR,5264,2024-08-09 20:53:45,true
+33,22,shipping,Dorrego 5336,La Plata,Neuquén,AR,6692,2024-10-11 04:27:54,true
+34,23,shipping,Av. Rivadavia 8194,Mar del Plata,Santa Fe,AR,1430,2024-09-19 23:13:04,true
+35,23,billing,Urquiza 9138,Mendoza,Entre Ríos,AR,3126,2024-09-19 23:13:04,true
+36,24,shipping,Reconquista 1315,Mar del Plata,CABA,AR,8372,2025-07-03 17:25:39,true
+37,24,billing,Av. Belgrano 9132,Mendoza,Chubut,AR,3981,2025-07-03 17:25:39,true
+38,25,shipping,Guemes 4753,Mendoza,Santa Fe,AR,2292,2024-09-02 18:51:48,true
+39,25,billing,Av. Belgrano 5061,Rosario,Chubut,AR,9740,2024-09-02 18:51:48,true
+40,26,shipping,Av. Santa Fe 9549,La Plata,Buenos Aires,AR,5336,2024-09-17 06:13:59,true
+41,27,shipping,Urquiza 1295,Rosario,Salta,AR,1981,2025-04-06 10:32:47,true
+42,27,billing,Urquiza 3442,Salta,Salta,AR,6573,2025-04-06 10:32:47,true
+43,28,shipping,Av. Rivadavia 7742,Mendoza,CABA,AR,3007,2025-07-11 12:34:28,true
+44,28,billing,Av. Corrientes 929,Mar del Plata,Santa Fe,AR,5754,2025-07-11 12:34:28,true
+45,29,shipping,Urquiza 5155,Salta,Chubut,AR,9148,2024-09-20 11:55:17,true
+46,29,billing,Urquiza 4044,Neuquén,Salta,AR,4524,2024-09-20 11:55:17,true
+47,30,shipping,Av. Belgrano 4433,San Miguel de Tucumán,CABA,AR,6992,2025-03-11 21:45:17,true
+48,31,shipping,Sarmiento 2046,Rosario,Chubut,AR,3108,2025-04-14 07:05:13,true
+49,32,shipping,Alsina 5556,Mar del Plata,Buenos Aires,AR,8761,2025-07-22 05:15:09,true
+50,32,billing,Guemes 2390,Comodoro Rivadavia,Córdoba,AR,6373,2025-07-22 05:15:09,true
+51,33,shipping,Urquiza 372,Rosario,Entre Ríos,AR,7035,2025-07-14 10:53:41,true
+52,33,billing,Sarmiento 5140,San Miguel de Tucumán,CABA,AR,1436,2025-07-14 10:53:41,true
+53,34,shipping,Mitre 6329,Neuquén,Córdoba,AR,3421,2025-08-02 21:03:41,true
+54,35,shipping,Guemes 7826,San Miguel de Tucumán,Santa Fe,AR,2020,2024-10-06 00:41:22,true
+55,36,shipping,Reconquista 4431,Neuquén,Tucumán,AR,8932,2025-03-02 19:07:55,true
+56,36,billing,Guemes 4990,Rosario,Santa Fe,AR,4684,2025-03-02 19:07:55,true
+57,37,shipping,Mitre 8999,Comodoro Rivadavia,CABA,AR,7220,2025-03-08 11:32:35,true
+58,38,shipping,Guemes 4542,Córdoba,Santa Fe,AR,5450,2024-11-25 02:52:38,true
+59,38,billing,Sarmiento 4020,CABA,Entre Ríos,AR,4972,2024-11-25 02:52:38,true
+60,39,shipping,Guemes 2687,Buenos Aires,Córdoba,AR,7666,2024-07-27 03:38:53,true
+61,40,shipping,Lavalle 2980,Mar del Plata,Buenos Aires,AR,1595,2024-11-24 23:30:59,true
+62,41,shipping,Urquiza 9001,Rosario,Tucumán,AR,9590,2024-11-26 01:21:50,true
+63,41,billing,Urquiza 4570,Neuquén,Córdoba,AR,4159,2024-11-26 01:21:50,true
+64,42,shipping,Mitre 3264,Comodoro Rivadavia,Mendoza,AR,3875,2025-05-28 09:22:00,true
+65,43,shipping,Lavalle 3958,Rosario,Buenos Aires,AR,8319,2025-01-22 03:28:22,true
+66,44,shipping,Lavalle 8333,Mar del Plata,Mendoza,AR,6095,2025-05-31 13:05:27,true
+67,45,shipping,Dorrego 3678,Neuquén,Neuquén,AR,5054,2025-03-02 05:34:38,true
+68,46,shipping,Guemes 2555,Comodoro Rivadavia,Santa Fe,AR,3695,2025-06-26 13:10:19,true
+69,46,billing,Av. Corrientes 3465,Salta,Chubut,AR,9008,2025-06-26 13:10:19,true
+70,47,shipping,Av. Santa Fe 6587,CABA,Mendoza,AR,5169,2024-09-06 18:41:12,true
+71,48,shipping,Dorrego 2318,Mar del Plata,Salta,AR,7887,2024-12-24 02:19:17,true
+72,48,billing,Lavalle 6254,Salta,Salta,AR,2314,2024-12-24 02:19:17,true
+73,49,shipping,Urquiza 9020,Rosario,Buenos Aires,AR,7948,2025-04-02 14:18:38,true
+74,49,billing,Urquiza 5771,Córdoba,Santa Fe,AR,3541,2025-04-02 14:18:38,true
+75,50,shipping,Urquiza 9894,Buenos Aires,Entre Ríos,AR,1797,2025-06-04 15:15:50,true
+76,50,billing,Urquiza 3939,San Miguel de Tucumán,Buenos Aires,AR,9843,2025-06-04 15:15:50,true
+77,51,shipping,Lavalle 5023,Córdoba,Chubut,AR,5508,2024-10-28 20:58:31,true
+78,51,billing,Av. Belgrano 7099,CABA,Entre Ríos,AR,9120,2024-10-28 20:58:31,true
+79,52,shipping,Av. Rivadavia 3792,Salta,Chubut,AR,5927,2025-06-22 15:09:28,true
+80,53,shipping,Av. Corrientes 7469,Paraná,Tucumán,AR,7079,2025-01-30 20:17:24,true
+81,53,billing,Calle San Martín 6279,Buenos Aires,Santa Fe,AR,1647,2025-01-30 20:17:24,true
+82,54,shipping,Dorrego 7946,CABA,CABA,AR,4974,2024-10-15 12:07:22,true
+83,55,shipping,Guemes 8247,Mendoza,Mendoza,AR,8635,2025-08-02 10:18:21,true
+84,55,billing,Av. Rivadavia 6173,Mendoza,Neuquén,AR,6126,2025-08-02 10:18:21,true
+85,56,shipping,Sarmiento 4126,San Miguel de Tucumán,Santa Fe,AR,9180,2024-09-13 00:35:25,true
+86,56,billing,Dorrego 8105,Rosario,Tucumán,AR,9037,2024-09-13 00:35:25,true
+87,57,shipping,Av. Corrientes 894,Buenos Aires,Chubut,AR,1104,2025-07-04 19:53:56,true
+88,57,billing,Alsina 2574,La Plata,Santa Fe,AR,1149,2025-07-04 19:53:56,true
+89,58,shipping,Lavalle 294,Neuquén,Chubut,AR,1274,2025-05-13 23:13:08,true
+90,58,billing,Calle San Martín 380,Neuquén,Mendoza,AR,9228,2025-05-13 23:13:08,true
+91,59,shipping,Reconquista 6752,La Plata,Salta,AR,8520,2024-09-15 08:46:24,true
+92,59,billing,Mitre 1420,Rosario,Santa Fe,AR,1519,2024-09-15 08:46:24,true
+93,60,shipping,Dorrego 5527,Paraná,Salta,AR,2562,2025-03-01 02:02:35,true
+94,61,shipping,Av. Santa Fe 3038,Paraná,Entre Ríos,AR,6152,2025-03-01 09:52:12,true
+95,61,billing,Av. Belgrano 6625,Comodoro Rivadavia,Santa Fe,AR,2260,2025-03-01 09:52:12,true
+96,62,shipping,Alsina 5766,Neuquén,CABA,AR,1879,2025-01-16 19:40:52,true
+97,62,billing,Reconquista 9858,La Plata,Santa Fe,AR,7499,2025-01-16 19:40:52,true
+98,63,shipping,Dorrego 4939,La Plata,Salta,AR,5037,2024-10-25 12:57:16,true
+99,64,shipping,Urquiza 5996,Rosario,Buenos Aires,AR,5419,2025-08-06 23:04:46,true
+100,64,billing,Lavalle 7453,Mar del Plata,CABA,AR,9395,2025-08-06 23:04:46,true
+101,65,shipping,Dorrego 1487,San Miguel de Tucumán,Salta,AR,4977,2025-04-10 03:23:18,true
+102,65,billing,Lavalle 2877,Paraná,Córdoba,AR,3274,2025-04-10 03:23:18,true
+103,66,shipping,Calle San Martín 4140,Mendoza,CABA,AR,9123,2024-08-02 06:05:16,true
+104,66,billing,Av. Corrientes 2319,Salta,Santa Fe,AR,5991,2024-08-02 06:05:16,true
+105,67,shipping,Reconquista 9983,Rosario,Córdoba,AR,4290,2025-08-16 11:59:53,true
+106,67,billing,Reconquista 4875,San Miguel de Tucumán,Córdoba,AR,9044,2025-08-16 11:59:53,true
+107,68,shipping,Mitre 9112,Mar del Plata,Chubut,AR,1440,2025-08-23 14:18:22,true
+108,69,shipping,Av. Belgrano 7032,Paraná,Mendoza,AR,7176,2025-06-20 02:31:04,true
+109,69,billing,Sarmiento 6666,Salta,Entre Ríos,AR,9755,2025-06-20 02:31:04,true
+110,70,shipping,Mitre 825,Mar del Plata,Tucumán,AR,7547,2025-01-01 19:32:53,true
+111,71,shipping,Reconquista 6508,Salta,Santa Fe,AR,8586,2024-11-10 08:04:58,true
+112,72,shipping,Calle San Martín 5720,Mendoza,Córdoba,AR,8460,2025-03-05 03:48:23,true
+113,73,shipping,Reconquista 1891,Buenos Aires,CABA,AR,3692,2025-02-10 16:28:23,true
+114,74,shipping,Mitre 7180,Paraná,Córdoba,AR,7481,2024-12-17 20:23:00,true
+115,74,billing,Urquiza 9802,Córdoba,Entre Ríos,AR,8037,2024-12-17 20:23:00,true
+116,75,shipping,Urquiza 1967,Córdoba,Tucumán,AR,5298,2025-07-21 02:16:40,true
+117,76,shipping,Mitre 4973,Mar del Plata,Entre Ríos,AR,2388,2025-05-09 14:17:31,true
+118,77,shipping,Lavalle 7031,Comodoro Rivadavia,Córdoba,AR,4043,2024-10-02 13:35:29,true
+119,77,billing,Mitre 2938,CABA,Chubut,AR,3733,2024-10-02 13:35:29,true
+120,78,shipping,Guemes 8209,Neuquén,Salta,AR,7703,2025-02-16 22:33:07,true
+121,79,shipping,Dorrego 7592,Mar del Plata,Mendoza,AR,9115,2025-04-16 01:07:24,true
+122,79,billing,Av. Corrientes 4489,Comodoro Rivadavia,CABA,AR,9898,2025-04-16 01:07:24,true
+123,80,shipping,Urquiza 4405,Buenos Aires,Mendoza,AR,6711,2025-04-06 07:57:24,true
+124,81,shipping,Sarmiento 2381,Mar del Plata,Salta,AR,4385,2025-08-20 21:24:20,true
+125,82,shipping,Mitre 1660,Neuquén,Mendoza,AR,3221,2025-05-02 19:36:57,true
+126,83,shipping,Av. Belgrano 9560,Salta,Salta,AR,5402,2025-06-25 04:49:52,true
+127,84,shipping,Urquiza 5462,Salta,Tucumán,AR,1040,2025-07-29 03:23:22,true
+128,85,shipping,Reconquista 9067,Rosario,Tucumán,AR,3139,2025-03-31 14:28:49,true
+129,85,billing,Mitre 893,Mendoza,Neuquén,AR,1752,2025-03-31 14:28:49,true
+130,86,shipping,Calle San Martín 2704,Paraná,Córdoba,AR,5489,2024-09-19 16:04:00,true
+131,86,billing,Av. Corrientes 6192,Rosario,Tucumán,AR,3711,2024-09-19 16:04:00,true
+132,87,shipping,Av. Belgrano 9826,La Plata,Neuquén,AR,4705,2025-07-22 08:31:29,true
+133,87,billing,Av. Santa Fe 5729,Buenos Aires,Neuquén,AR,2975,2025-07-22 08:31:29,true
+134,88,shipping,Dorrego 2281,San Miguel de Tucumán,Córdoba,AR,3340,2025-01-13 03:15:08,true
+135,88,billing,Sarmiento 2788,Buenos Aires,Entre Ríos,AR,8210,2025-01-13 03:15:08,true
+136,89,shipping,Lavalle 5859,CABA,Entre Ríos,AR,8035,2025-06-17 16:06:24,true
+137,89,billing,Calle San Martín 1480,Córdoba,Córdoba,AR,5065,2025-06-17 16:06:24,true
+138,90,shipping,Mitre 994,Rosario,Salta,AR,4921,2025-06-03 10:58:57,true
+139,90,billing,Urquiza 9830,Córdoba,CABA,AR,2163,2025-06-03 10:58:57,true
+140,91,shipping,Av. Santa Fe 9723,La Plata,Neuquén,AR,2106,2025-01-15 20:41:38,true
+141,91,billing,Av. Santa Fe 6620,Buenos Aires,Santa Fe,AR,9300,2025-01-15 20:41:38,true
+142,92,shipping,Av. Corrientes 8477,Rosario,CABA,AR,4329,2025-01-22 03:00:03,true
+143,93,shipping,Av. Rivadavia 1512,Buenos Aires,Santa Fe,AR,8118,2025-05-21 23:39:35,true
+144,93,billing,Av. Santa Fe 5167,Comodoro Rivadavia,Entre Ríos,AR,3877,2025-05-21 23:39:35,true
+145,94,shipping,Alsina 4503,Mar del Plata,Tucumán,AR,2934,2024-09-22 18:04:25,true
+146,95,shipping,Sarmiento 2834,Salta,Buenos Aires,AR,7024,2024-08-02 09:34:25,true
+147,95,billing,Mitre 1989,Comodoro Rivadavia,CABA,AR,4742,2024-08-02 09:34:25,true
+148,96,shipping,Dorrego 6970,Neuquén,Buenos Aires,AR,4678,2024-07-24 17:10:35,true
+149,96,billing,Reconquista 4544,CABA,Salta,AR,2276,2024-07-24 17:10:35,true
+150,97,shipping,Dorrego 5190,Rosario,Neuquén,AR,6362,2024-07-27 06:31:47,true
+151,97,billing,Reconquista 3387,Buenos Aires,Neuquén,AR,5777,2024-07-27 06:31:47,true
+152,98,shipping,Av. Rivadavia 8972,Buenos Aires,Salta,AR,6675,2025-04-29 17:57:45,true
+153,99,shipping,Alsina 4684,Mar del Plata,Buenos Aires,AR,2524,2025-07-13 11:11:46,true
+154,99,billing,Lavalle 6202,Neuquén,Santa Fe,AR,8511,2025-07-13 11:11:46,true
+155,100,shipping,Calle San Martín 5261,Rosario,Santa Fe,AR,7438,2025-05-23 14:21:28,true
+156,101,shipping,Lavalle 2078,Mendoza,Neuquén,AR,9780,2024-08-08 07:22:49,true
+157,101,billing,Calle San Martín 7691,Salta,Santa Fe,AR,5341,2024-08-08 07:22:49,true
+158,102,shipping,Lavalle 8512,Mendoza,Santa Fe,AR,1802,2025-08-28 21:57:56,true
+159,103,shipping,Av. Santa Fe 1110,La Plata,Córdoba,AR,4641,2025-02-17 20:14:29,true
+160,103,billing,Mitre 1476,Mendoza,Salta,AR,5240,2025-02-17 20:14:29,true
+161,104,shipping,Sarmiento 7196,Mar del Plata,Buenos Aires,AR,7471,2025-02-13 04:41:20,true
+162,104,billing,Lavalle 2931,Paraná,Salta,AR,6799,2025-02-13 04:41:20,true
+163,105,shipping,Av. Santa Fe 1537,Salta,Chubut,AR,5583,2024-09-15 01:15:41,true
+164,105,billing,Mitre 8714,Córdoba,Salta,AR,5082,2024-09-15 01:15:41,true
+165,106,shipping,Av. Santa Fe 5324,Mar del Plata,Mendoza,AR,4588,2025-03-03 19:49:31,true
+166,106,billing,Dorrego 7828,Buenos Aires,Mendoza,AR,9674,2025-03-03 19:49:31,true
+167,107,shipping,Dorrego 6463,Comodoro Rivadavia,Santa Fe,AR,6813,2024-11-04 23:54:56,true
+168,108,shipping,Av. Belgrano 9325,Comodoro Rivadavia,Entre Ríos,AR,4084,2025-08-17 13:03:46,true
+169,109,shipping,Reconquista 3400,Buenos Aires,Neuquén,AR,3137,2024-07-20 03:17:10,true
+170,109,billing,Av. Santa Fe 459,Mendoza,Córdoba,AR,3420,2024-07-20 03:17:10,true
+171,110,shipping,Av. Belgrano 7257,Mar del Plata,Tucumán,AR,8982,2025-01-03 02:38:26,true
+172,111,shipping,Av. Santa Fe 9485,CABA,Córdoba,AR,7415,2025-04-28 06:23:03,true
+173,112,shipping,Reconquista 5334,Córdoba,CABA,AR,3750,2025-08-19 22:15:34,true
+174,113,shipping,Lavalle 7279,Buenos Aires,Buenos Aires,AR,7875,2024-10-16 09:05:07,true
+175,114,shipping,Av. Santa Fe 5321,Rosario,Buenos Aires,AR,5278,2025-01-09 03:41:34,true
+176,115,shipping,Av. Santa Fe 7166,CABA,Neuquén,AR,3703,2025-07-10 02:43:50,true
+177,116,shipping,Av. Santa Fe 6537,La Plata,Santa Fe,AR,9043,2024-10-14 06:55:01,true
+178,116,billing,Lavalle 1535,Buenos Aires,Tucumán,AR,5825,2024-10-14 06:55:01,true
+179,117,shipping,Urquiza 8113,San Miguel de Tucumán,Mendoza,AR,5341,2024-10-14 06:13:11,true
+180,117,billing,Av. Belgrano 6178,San Miguel de Tucumán,Chubut,AR,7249,2024-10-14 06:13:11,true
+181,118,shipping,Mitre 1684,CABA,Córdoba,AR,2404,2025-02-11 16:55:56,true
+182,119,shipping,Calle San Martín 1393,Salta,Santa Fe,AR,7468,2025-01-15 19:01:35,true
+183,120,shipping,Dorrego 3257,Córdoba,Córdoba,AR,3067,2025-04-19 22:35:00,true
+184,120,billing,Lavalle 3408,Paraná,CABA,AR,3422,2025-04-19 22:35:00,true
+185,121,shipping,Av. Santa Fe 9726,Salta,Chubut,AR,9561,2024-08-04 03:10:06,true
+186,122,shipping,Lavalle 4427,Mendoza,Chubut,AR,7275,2025-04-28 21:12:52,true
+187,123,shipping,Av. Rivadavia 907,CABA,Tucumán,AR,8785,2024-11-19 14:40:18,true
+188,124,shipping,Calle San Martín 6928,Mendoza,Neuquén,AR,2462,2024-11-21 17:53:57,true
+189,124,billing,Alsina 8037,San Miguel de Tucumán,Santa Fe,AR,9462,2024-11-21 17:53:57,true
+190,125,shipping,Av. Rivadavia 3388,Mar del Plata,Buenos Aires,AR,1944,2024-12-07 18:27:06,true
+191,125,billing,Reconquista 3362,Buenos Aires,Neuquén,AR,5488,2024-12-07 18:27:06,true
+192,126,shipping,Guemes 5830,Comodoro Rivadavia,Neuquén,AR,6640,2024-09-02 01:06:45,true
+193,126,billing,Alsina 1580,CABA,Mendoza,AR,5670,2024-09-02 01:06:45,true
+194,127,shipping,Av. Santa Fe 245,Neuquén,Salta,AR,8767,2025-04-19 07:48:11,true
+195,128,shipping,Av. Rivadavia 7746,Rosario,Neuquén,AR,5950,2025-05-08 11:07:17,true
+196,129,shipping,Calle San Martín 5427,Mendoza,CABA,AR,5536,2025-06-05 13:37:31,true
+197,129,billing,Av. Belgrano 8575,Córdoba,Mendoza,AR,4937,2025-06-05 13:37:31,true
+198,130,shipping,Lavalle 6461,San Miguel de Tucumán,Mendoza,AR,1578,2025-06-14 05:05:40,true
+199,130,billing,Reconquista 3743,Córdoba,Entre Ríos,AR,9759,2025-06-14 05:05:40,true
+200,131,shipping,Dorrego 9259,CABA,Mendoza,AR,3999,2024-09-26 23:56:34,true
+201,132,shipping,Urquiza 979,La Plata,Neuquén,AR,2166,2025-07-17 11:10:50,true
+202,132,billing,Av. Corrientes 6353,Neuquén,Santa Fe,AR,9680,2025-07-17 11:10:50,true
+203,133,shipping,Urquiza 5549,La Plata,Córdoba,AR,3897,2024-10-11 12:28:34,true
+204,133,billing,Urquiza 4581,Buenos Aires,Buenos Aires,AR,4430,2024-10-11 12:28:34,true
+205,134,shipping,Av. Santa Fe 718,San Miguel de Tucumán,Neuquén,AR,9745,2025-07-26 03:12:19,true
+206,134,billing,Reconquista 8800,Buenos Aires,Tucumán,AR,4122,2025-07-26 03:12:19,true
+207,135,shipping,Av. Santa Fe 4985,La Plata,Córdoba,AR,5764,2024-12-24 11:21:46,true
+208,135,billing,Guemes 5635,Comodoro Rivadavia,Chubut,AR,8105,2024-12-24 11:21:46,true
+209,136,shipping,Alsina 459,Córdoba,Córdoba,AR,9267,2024-10-05 06:00:11,true
+210,136,billing,Mitre 712,CABA,Tucumán,AR,7147,2024-10-05 06:00:11,true
+211,137,shipping,Av. Corrientes 9066,San Miguel de Tucumán,Neuquén,AR,5140,2025-06-04 03:56:10,true
+212,137,billing,Alsina 252,Córdoba,Córdoba,AR,5933,2025-06-04 03:56:10,true
+213,138,shipping,Dorrego 1841,La Plata,Mendoza,AR,9154,2025-05-07 04:59:38,true
+214,138,billing,Guemes 3404,Rosario,Santa Fe,AR,6864,2025-05-07 04:59:38,true
+215,139,shipping,Sarmiento 8195,La Plata,CABA,AR,3443,2025-03-12 07:33:42,true
+216,140,shipping,Calle San Martín 6001,Buenos Aires,Córdoba,AR,6123,2024-10-27 16:37:47,true
+217,140,billing,Dorrego 851,La Plata,CABA,AR,1158,2024-10-27 16:37:47,true
+218,141,shipping,Urquiza 4553,San Miguel de Tucumán,Salta,AR,7319,2025-05-15 09:46:07,true
+219,142,shipping,Urquiza 3069,Paraná,Entre Ríos,AR,7221,2025-06-22 02:08:06,true
+220,143,shipping,Mitre 8698,CABA,Buenos Aires,AR,4669,2024-08-27 14:58:27,true
+221,144,shipping,Guemes 994,Mar del Plata,Salta,AR,1190,2025-05-13 03:28:03,true
+222,145,shipping,Av. Rivadavia 9119,Neuquén,Buenos Aires,AR,7203,2024-09-23 02:43:32,true
+223,145,billing,Urquiza 7377,La Plata,Santa Fe,AR,8341,2024-09-23 02:43:32,true
+224,146,shipping,Av. Corrientes 9999,Buenos Aires,Chubut,AR,5990,2025-03-12 23:47:18,true
+225,147,shipping,Alsina 6052,Salta,Entre Ríos,AR,8414,2025-08-27 01:58:33,true
+226,147,billing,Reconquista 5918,Buenos Aires,Santa Fe,AR,5783,2025-08-27 01:58:33,true
+227,148,shipping,Calle San Martín 3309,La Plata,Salta,AR,4072,2024-07-24 05:58:36,true
+228,148,billing,Urquiza 3222,Córdoba,Salta,AR,6536,2024-07-24 05:58:36,true
+229,149,shipping,Urquiza 171,Mar del Plata,Chubut,AR,9689,2025-06-10 21:26:16,true
+230,150,shipping,Guemes 6402,Mendoza,Entre Ríos,AR,7859,2024-09-29 21:03:52,true
+231,151,shipping,Alsina 9075,Rosario,Chubut,AR,6143,2025-02-17 04:51:21,true
+232,152,shipping,Guemes 5381,Neuquén,Córdoba,AR,2890,2025-07-01 10:34:46,true
+233,153,shipping,Av. Belgrano 969,San Miguel de Tucumán,Buenos Aires,AR,1927,2025-01-30 19:26:19,true
+234,153,billing,Mitre 4205,Rosario,Córdoba,AR,3399,2025-01-30 19:26:19,true
+235,154,shipping,Dorrego 4812,Neuquén,Santa Fe,AR,1769,2024-12-31 16:28:42,true
+236,155,shipping,Guemes 9985,Comodoro Rivadavia,Tucumán,AR,4218,2024-07-07 09:09:03,true
+237,156,shipping,Calle San Martín 2231,Neuquén,Mendoza,AR,3636,2024-08-08 06:48:27,true
+238,156,billing,Reconquista 7740,Buenos Aires,Mendoza,AR,3536,2024-08-08 06:48:27,true
+239,157,shipping,Reconquista 8708,CABA,CABA,AR,4603,2025-08-01 22:46:08,true
+240,158,shipping,Reconquista 4909,Mendoza,Tucumán,AR,4579,2025-04-05 19:33:10,true
+241,159,shipping,Av. Rivadavia 753,Comodoro Rivadavia,Entre Ríos,AR,6258,2025-07-21 23:38:25,true
+242,159,billing,Calle San Martín 8951,San Miguel de Tucumán,CABA,AR,5633,2025-07-21 23:38:25,true
+243,160,shipping,Av. Corrientes 2842,La Plata,Chubut,AR,9814,2025-03-18 16:13:20,true
+244,160,billing,Mitre 3592,Córdoba,CABA,AR,7950,2025-03-18 16:13:20,true
+245,161,shipping,Reconquista 720,CABA,Neuquén,AR,2433,2025-08-01 15:50:47,true
+246,161,billing,Guemes 1254,Rosario,Córdoba,AR,4729,2025-08-01 15:50:47,true
+247,162,shipping,Alsina 1136,Paraná,Buenos Aires,AR,1745,2025-01-24 15:45:57,true
+248,163,shipping,Av. Belgrano 8840,Salta,Buenos Aires,AR,4602,2025-08-07 10:58:18,true
+249,163,billing,Calle San Martín 2460,Neuquén,Salta,AR,5883,2025-08-07 10:58:18,true
+250,164,shipping,Alsina 5733,Córdoba,Mendoza,AR,4469,2024-09-02 01:31:15,true
+251,164,billing,Av. Belgrano 3114,Mar del Plata,Chubut,AR,4617,2024-09-02 01:31:15,true
+252,165,shipping,Av. Corrientes 4207,Paraná,Mendoza,AR,2608,2025-06-09 20:39:16,true
+253,165,billing,Reconquista 5951,Salta,Entre Ríos,AR,3100,2025-06-09 20:39:16,true
+254,166,shipping,Sarmiento 9387,Mar del Plata,Entre Ríos,AR,6971,2024-10-08 11:34:12,true
+255,167,shipping,Urquiza 7396,Salta,Tucumán,AR,6877,2025-08-07 08:03:55,true
+256,168,shipping,Av. Corrientes 405,CABA,CABA,AR,9309,2025-05-07 02:59:04,true
+257,169,shipping,Lavalle 3758,Mendoza,Córdoba,AR,5767,2024-07-19 20:04:58,true
+258,169,billing,Av. Corrientes 6600,Neuquén,Chubut,AR,6961,2024-07-19 20:04:58,true
+259,170,shipping,Av. Belgrano 8021,Paraná,Entre Ríos,AR,6878,2024-09-23 18:43:08,true
+260,170,billing,Av. Corrientes 4431,Córdoba,Neuquén,AR,7052,2024-09-23 18:43:08,true
+261,171,shipping,Alsina 8642,La Plata,Tucumán,AR,5480,2025-01-01 14:07:48,true
+262,172,shipping,Calle San Martín 6265,Neuquén,CABA,AR,4651,2025-01-09 23:47:58,true
+263,172,billing,Urquiza 7998,Mendoza,Tucumán,AR,1108,2025-01-09 23:47:58,true
+264,173,shipping,Alsina 2038,Comodoro Rivadavia,Tucumán,AR,4773,2024-08-09 18:44:01,true
+265,173,billing,Av. Corrientes 7989,CABA,Tucumán,AR,8844,2024-08-09 18:44:01,true
+266,174,shipping,Guemes 742,Paraná,Córdoba,AR,3406,2025-01-27 00:49:02,true
+267,174,billing,Guemes 6742,Mar del Plata,Mendoza,AR,1305,2025-01-27 00:49:02,true
+268,175,shipping,Sarmiento 8469,Mar del Plata,Entre Ríos,AR,5333,2025-02-27 17:32:13,true
+269,175,billing,Sarmiento 9776,Salta,Tucumán,AR,2127,2025-02-27 17:32:13,true
+270,176,shipping,Av. Belgrano 7896,La Plata,Entre Ríos,AR,1639,2024-07-09 07:22:02,true
+271,177,shipping,Lavalle 6168,Neuquén,Salta,AR,1711,2025-06-03 04:44:42,true
+272,178,shipping,Calle San Martín 9902,La Plata,Santa Fe,AR,9908,2025-04-28 20:58:33,true
+273,178,billing,Alsina 216,Buenos Aires,Santa Fe,AR,9561,2025-04-28 20:58:33,true
+274,179,shipping,Calle San Martín 8883,Rosario,Entre Ríos,AR,7939,2024-10-14 11:30:05,true
+275,179,billing,Mitre 6611,Rosario,Entre Ríos,AR,4337,2024-10-14 11:30:05,true
+276,180,shipping,Av. Belgrano 2051,CABA,Salta,AR,4764,2025-01-06 20:21:21,true
+277,180,billing,Av. Rivadavia 8428,La Plata,Córdoba,AR,7562,2025-01-06 20:21:21,true
+278,181,shipping,Av. Rivadavia 6175,Rosario,CABA,AR,2311,2025-05-22 00:11:33,true
+279,182,shipping,Av. Rivadavia 650,Rosario,Chubut,AR,9364,2025-05-02 02:05:31,true
+280,182,billing,Av. Belgrano 690,Comodoro Rivadavia,Santa Fe,AR,6893,2025-05-02 02:05:31,true
+281,183,shipping,Alsina 1224,CABA,Buenos Aires,AR,2477,2025-08-04 14:32:34,true
+282,183,billing,Reconquista 5793,Comodoro Rivadavia,Chubut,AR,5530,2025-08-04 14:32:34,true
+283,184,shipping,Calle San Martín 5670,Neuquén,CABA,AR,2917,2025-04-21 00:10:09,true
+284,185,shipping,Urquiza 9714,Paraná,Neuquén,AR,1448,2025-02-12 13:43:44,true
+285,185,billing,Lavalle 3710,La Plata,Mendoza,AR,4767,2025-02-12 13:43:44,true
+286,186,shipping,Guemes 3024,La Plata,Tucumán,AR,8807,2024-07-05 09:35:17,true
+287,186,billing,Calle San Martín 3094,Comodoro Rivadavia,Santa Fe,AR,4115,2024-07-05 09:35:17,true
+288,187,shipping,Dorrego 1847,Mar del Plata,Tucumán,AR,2964,2024-11-13 07:31:42,true
+289,188,shipping,Dorrego 8474,Mar del Plata,Neuquén,AR,5591,2025-03-04 13:30:53,true
+290,188,billing,Av. Santa Fe 8713,Mar del Plata,Entre Ríos,AR,7933,2025-03-04 13:30:53,true
+291,189,shipping,Mitre 3552,Buenos Aires,Buenos Aires,AR,7216,2025-01-18 06:21:51,true
+292,189,billing,Sarmiento 4354,Mendoza,Tucumán,AR,4066,2025-01-18 06:21:51,true
+293,190,shipping,Lavalle 4681,Mendoza,Tucumán,AR,8384,2025-05-10 12:29:30,true
+294,190,billing,Mitre 3844,Comodoro Rivadavia,Córdoba,AR,2636,2025-05-10 12:29:30,true
+295,191,shipping,Mitre 8570,Mar del Plata,Neuquén,AR,9748,2025-01-12 07:08:18,true
+296,192,shipping,Mitre 1677,Salta,Mendoza,AR,8370,2025-04-17 01:44:13,true
+297,193,shipping,Sarmiento 9535,Córdoba,Entre Ríos,AR,9821,2025-08-19 09:22:59,true
+298,193,billing,Reconquista 8463,Mendoza,Mendoza,AR,8987,2025-08-19 09:22:59,true
+299,194,shipping,Lavalle 1268,Comodoro Rivadavia,Entre Ríos,AR,2296,2025-02-23 22:59:59,true
+300,194,billing,Reconquista 4873,Mendoza,Santa Fe,AR,5382,2025-02-23 22:59:59,true
+301,195,shipping,Alsina 3944,Mar del Plata,Buenos Aires,AR,5122,2025-01-02 21:22:08,true
+302,196,shipping,Av. Corrientes 4400,La Plata,Chubut,AR,3544,2024-08-18 02:19:21,true
+303,196,billing,Av. Rivadavia 4153,Rosario,Salta,AR,5655,2024-08-18 02:19:21,true
+304,197,shipping,Calle San Martín 9087,Neuquén,Neuquén,AR,8288,2024-09-26 01:02:24,true
+305,197,billing,Sarmiento 9890,Mar del Plata,Chubut,AR,8480,2024-09-26 01:02:24,true
+306,198,shipping,Reconquista 6853,Rosario,Neuquén,AR,5256,2025-03-31 11:16:27,true
+307,198,billing,Guemes 2333,Buenos Aires,Buenos Aires,AR,6634,2025-03-31 11:16:27,true
+308,199,shipping,Dorrego 218,Córdoba,Entre Ríos,AR,9981,2025-03-09 17:22:10,true
+309,199,billing,Lavalle 6567,Neuquén,Salta,AR,5094,2025-03-09 17:22:10,true
+310,200,shipping,Mitre 8815,Rosario,Mendoza,AR,5404,2024-08-10 15:22:23,true
+311,200,billing,Av. Belgrano 4844,Mar del Plata,CABA,AR,2808,2024-08-10 15:22:23,true
+312,201,shipping,Av. Belgrano 1775,Buenos Aires,Chubut,AR,5622,2025-05-15 17:54:46,true
+313,201,billing,Av. Santa Fe 3914,CABA,Neuquén,AR,2477,2025-05-15 17:54:46,true
+314,202,shipping,Dorrego 2493,La Plata,Tucumán,AR,1918,2025-02-01 11:20:38,true
+315,202,billing,Guemes 7802,La Plata,Salta,AR,3975,2025-02-01 11:20:38,true
+316,203,shipping,Alsina 1639,Salta,Santa Fe,AR,9538,2025-07-29 09:03:51,true
+317,204,shipping,Mitre 4995,Salta,Mendoza,AR,4255,2024-12-13 05:46:29,true
+318,204,billing,Av. Rivadavia 1950,Paraná,Buenos Aires,AR,4866,2024-12-13 05:46:29,true
+319,205,shipping,Dorrego 7886,Comodoro Rivadavia,Buenos Aires,AR,3539,2024-11-19 21:17:17,true
+320,205,billing,Av. Belgrano 8290,Córdoba,CABA,AR,2497,2024-11-19 21:17:17,true
+321,206,shipping,Guemes 5790,Mendoza,Santa Fe,AR,8187,2025-05-27 05:36:14,true
+322,207,shipping,Sarmiento 3157,Córdoba,Neuquén,AR,9906,2024-11-06 01:26:15,true
+323,207,billing,Sarmiento 9185,Rosario,Neuquén,AR,3627,2024-11-06 01:26:15,true
+324,208,shipping,Alsina 3139,San Miguel de Tucumán,Chubut,AR,1306,2025-08-24 09:35:17,true
+325,209,shipping,Sarmiento 4738,Mar del Plata,Chubut,AR,6285,2024-08-02 23:58:03,true
+326,209,billing,Av. Corrientes 8672,La Plata,Tucumán,AR,2092,2024-08-02 23:58:03,true
+327,210,shipping,Urquiza 8715,Paraná,Salta,AR,5193,2024-08-24 17:40:18,true
+328,210,billing,Alsina 1261,Comodoro Rivadavia,Santa Fe,AR,1214,2024-08-24 17:40:18,true
+329,211,shipping,Calle San Martín 8767,Comodoro Rivadavia,Buenos Aires,AR,1666,2025-05-24 02:12:36,true
+330,212,shipping,Mitre 3031,Comodoro Rivadavia,Santa Fe,AR,7802,2024-08-21 08:24:39,true
+331,213,shipping,Sarmiento 7358,Neuquén,Córdoba,AR,6772,2025-02-04 03:47:24,true
+332,214,shipping,Dorrego 9115,San Miguel de Tucumán,Santa Fe,AR,5162,2025-05-21 15:40:38,true
+333,214,billing,Lavalle 103,Salta,Neuquén,AR,1567,2025-05-21 15:40:38,true
+334,215,shipping,Guemes 9214,Neuquén,Mendoza,AR,3534,2024-12-02 00:14:20,true
+335,215,billing,Av. Belgrano 2367,Mendoza,Neuquén,AR,5341,2024-12-02 00:14:20,true
+336,216,shipping,Av. Belgrano 8099,Salta,Tucumán,AR,2562,2025-08-20 10:56:01,true
+337,216,billing,Alsina 9541,Buenos Aires,Mendoza,AR,7251,2025-08-20 10:56:01,true
+338,217,shipping,Dorrego 6366,Paraná,Buenos Aires,AR,1886,2025-02-08 15:09:54,true
+339,217,billing,Guemes 9355,Mendoza,Buenos Aires,AR,3450,2025-02-08 15:09:54,true
+340,218,shipping,Av. Belgrano 5607,Mar del Plata,Salta,AR,2352,2025-06-10 14:18:15,true
+341,218,billing,Lavalle 4401,Neuquén,Buenos Aires,AR,2393,2025-06-10 14:18:15,true
+342,219,shipping,Sarmiento 8689,Neuquén,Santa Fe,AR,5034,2025-07-26 04:54:37,true
+343,219,billing,Reconquista 9537,San Miguel de Tucumán,Mendoza,AR,2467,2025-07-26 04:54:37,true
+344,220,shipping,Dorrego 7345,Comodoro Rivadavia,Tucumán,AR,3389,2024-10-06 11:40:39,true
+345,220,billing,Mitre 6224,Córdoba,Santa Fe,AR,3555,2024-10-06 11:40:39,true
+346,221,shipping,Reconquista 3524,Buenos Aires,Neuquén,AR,9814,2024-09-14 10:28:27,true
+347,221,billing,Dorrego 4337,Neuquén,Chubut,AR,9991,2024-09-14 10:28:27,true
+348,222,shipping,Dorrego 4544,Córdoba,Mendoza,AR,1869,2025-06-08 00:40:10,true
+349,222,billing,Lavalle 4545,La Plata,Buenos Aires,AR,6901,2025-06-08 00:40:10,true
+350,223,shipping,Av. Belgrano 3358,La Plata,Chubut,AR,9202,2024-10-27 13:51:39,true
+351,224,shipping,Mitre 5053,Mendoza,Tucumán,AR,4869,2024-12-04 12:08:41,true
+352,225,shipping,Av. Belgrano 1538,Paraná,Salta,AR,7262,2025-01-15 01:04:22,true
+353,225,billing,Mitre 3826,Paraná,Entre Ríos,AR,7837,2025-01-15 01:04:22,true
+354,226,shipping,Mitre 3414,Neuquén,Entre Ríos,AR,3262,2025-05-06 11:59:20,true
+355,226,billing,Lavalle 2478,Mar del Plata,Chubut,AR,3589,2025-05-06 11:59:20,true
+356,227,shipping,Calle San Martín 7358,San Miguel de Tucumán,Salta,AR,5485,2024-08-30 06:42:14,true
+357,227,billing,Av. Belgrano 3126,La Plata,Santa Fe,AR,1429,2024-08-30 06:42:14,true
+358,228,shipping,Dorrego 7908,CABA,CABA,AR,3196,2025-05-10 08:24:26,true
+359,228,billing,Alsina 6226,Salta,Entre Ríos,AR,4014,2025-05-10 08:24:26,true
+360,229,shipping,Alsina 3423,Córdoba,Salta,AR,4351,2024-10-07 08:14:18,true
+361,229,billing,Urquiza 5423,Comodoro Rivadavia,Neuquén,AR,8496,2024-10-07 08:14:18,true
+362,230,shipping,Guemes 8705,Comodoro Rivadavia,Entre Ríos,AR,1630,2025-07-12 13:50:56,true
+363,230,billing,Av. Santa Fe 4125,Salta,Neuquén,AR,9498,2025-07-12 13:50:56,true
+364,231,shipping,Urquiza 2827,Rosario,Mendoza,AR,7921,2025-03-22 22:57:40,true
+365,231,billing,Guemes 2430,CABA,Buenos Aires,AR,8595,2025-03-22 22:57:40,true
+366,232,shipping,Av. Belgrano 7533,Buenos Aires,Neuquén,AR,4308,2025-08-03 21:18:55,true
+367,233,shipping,Guemes 6392,La Plata,Tucumán,AR,9383,2025-06-30 05:58:15,true
+368,234,shipping,Calle San Martín 5171,San Miguel de Tucumán,Buenos Aires,AR,8311,2025-07-29 06:13:18,true
+369,234,billing,Av. Belgrano 3423,La Plata,Córdoba,AR,1057,2025-07-29 06:13:18,true
+370,235,shipping,Lavalle 7339,Salta,Neuquén,AR,2300,2025-03-13 19:47:17,true
+371,236,shipping,Av. Belgrano 631,Buenos Aires,Tucumán,AR,5889,2025-05-18 20:17:59,true
+372,236,billing,Av. Corrientes 6931,Buenos Aires,CABA,AR,3920,2025-05-18 20:17:59,true
+373,237,shipping,Dorrego 7101,La Plata,Salta,AR,2063,2025-02-19 21:04:46,true
+374,237,billing,Alsina 4596,La Plata,Córdoba,AR,6393,2025-02-19 21:04:46,true
+375,238,shipping,Urquiza 4805,La Plata,Chubut,AR,7996,2024-10-16 22:17:03,true
+376,239,shipping,Sarmiento 3912,Mar del Plata,Neuquén,AR,5759,2024-12-29 04:43:21,true
+377,240,shipping,Av. Rivadavia 285,Paraná,Chubut,AR,4296,2025-08-12 04:17:36,true
+378,241,shipping,Av. Santa Fe 2977,Comodoro Rivadavia,Entre Ríos,AR,4178,2025-04-08 11:47:37,true
+379,241,billing,Urquiza 7874,Paraná,Tucumán,AR,1582,2025-04-08 11:47:37,true
+380,242,shipping,Alsina 5269,Comodoro Rivadavia,Mendoza,AR,9779,2025-04-01 12:12:03,true
+381,242,billing,Reconquista 5893,Paraná,Entre Ríos,AR,2084,2025-04-01 12:12:03,true
+382,243,shipping,Reconquista 618,CABA,Mendoza,AR,5448,2025-05-17 19:27:08,true
+383,243,billing,Reconquista 7504,Córdoba,Neuquén,AR,5958,2025-05-17 19:27:08,true
+384,244,shipping,Av. Belgrano 3216,Neuquén,Neuquén,AR,6572,2025-01-08 01:21:41,true
+385,245,shipping,Guemes 1997,CABA,Salta,AR,1067,2024-08-20 18:47:32,true
+386,245,billing,Sarmiento 1526,Paraná,Buenos Aires,AR,6460,2024-08-20 18:47:32,true
+387,246,shipping,Calle San Martín 8820,Rosario,Santa Fe,AR,6228,2025-06-03 11:22:37,true
+388,247,shipping,Calle San Martín 2419,Mendoza,Chubut,AR,5641,2024-08-28 00:33:19,true
+389,247,billing,Calle San Martín 5649,La Plata,Córdoba,AR,9856,2024-08-28 00:33:19,true
+390,248,shipping,Sarmiento 9811,CABA,Córdoba,AR,8304,2025-06-11 01:50:13,true
+391,249,shipping,Urquiza 5185,La Plata,Neuquén,AR,8625,2025-06-09 19:25:24,true
+392,249,billing,Sarmiento 4327,Mar del Plata,Santa Fe,AR,6954,2025-06-09 19:25:24,true
+393,250,shipping,Dorrego 5811,Rosario,Córdoba,AR,3087,2025-03-07 01:06:06,true
+394,250,billing,Dorrego 1852,CABA,Salta,AR,6339,2025-03-07 01:06:06,true
