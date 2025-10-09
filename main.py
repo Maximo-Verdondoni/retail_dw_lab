@@ -1,9 +1,12 @@
 # main.py
-from etl.load import load
+import sys
+from pathlib import Path
+sys.path.append(str(Path(__file__).resolve().parent))
+from etl.load.load import run_pipeline
 
 def main():
     print("Iniciando pipeline de Data Warehouse...")
-    load.run_pipeline()
+    run_pipeline()
     print("✅ Pipeline completada con éxito!")
 
 if __name__ == "__main__":
