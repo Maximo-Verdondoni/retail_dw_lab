@@ -1,0 +1,13 @@
+campaign_id,campaign_name,utm_source,utm_medium,utm_campaign,budget_ars,start_date_id,end_date_id,channel_name,description
+1,Invierno 2025 Performance - Web,google,cpc,invierno_2025,4065939.23,223,232,Web,Tienda online desktop/mobile
+2,Retargeting Julio 2025 - Web,meta,social,retargeting_jul_2025,3157411.81,220,239,Web,Tienda online desktop/mobile
+3,Nuevo Drop Agosto 2025 - Web,meta,social,nuevo_drop_ago_2025,2965770.58,182,196,Web,Tienda online desktop/mobile
+4,Invierno 2025 Performance - App,google,cpc,invierno_2025,2033213.71,213,222,App,Aplicación móvil
+5,Retargeting Julio 2025 - App,meta,social,retargeting_jul_2025,3052450.37,227,247,App,Aplicación móvil
+6,Nuevo Drop Agosto 2025 - App,meta,social,nuevo_drop_ago_2025,1562694.44,195,224,App,Aplicación móvil
+7,Invierno 2025 Performance - Marketplace,google,cpc,invierno_2025,1014452.87,161,183,Marketplace,Marketplace externo
+8,Retargeting Julio 2025 - Marketplace,meta,social,retargeting_jul_2025,2997894.66,228,245,Marketplace,Marketplace externo
+9,Nuevo Drop Agosto 2025 - Marketplace,meta,social,nuevo_drop_ago_2025,4801475.51,208,224,Marketplace,Marketplace externo
+10,Invierno 2025 Performance - Instagram Shop,google,cpc,invierno_2025,3584789.07,160,170,Instagram Shop,Tienda social en Instagram
+11,Retargeting Julio 2025 - Instagram Shop,meta,social,retargeting_jul_2025,2724328.16,228,245,Instagram Shop,Tienda social en Instagram
+12,Nuevo Drop Agosto 2025 - Instagram Shop,meta,social,nuevo_drop_ago_2025,4176651.15,159,172,Instagram Shop,Tienda social en Instagram
