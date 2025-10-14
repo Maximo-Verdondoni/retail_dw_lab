@@ -10,6 +10,7 @@ from etl.transform.build_fact_inventory import build_fact_inventory
 from etl.transform.build_fact_OrderMarketing import build_fact_OrderMarketing
 from etl.transform.build_fact_shipment import build_fact_shipment
 from etl.transform.build_fact_payment import build_fact_payment
+from etl.transform.build_fact_order_item import build_fact_order_item
 #from etl.transform import build_fact_orders as fact_orders
 
 
@@ -29,6 +30,7 @@ def run_pipeline():
     df_fact_OrderMarketing = build_fact_OrderMarketing(data, OUTPUT_PATH)
     df_fact_shipment = build_fact_shipment(data, OUTPUT_PATH)
     df_fact_payment = build_fact_payment(data, OUTPUT_PATH)
+    df_fact_order_item = build_fact_order_item(data, OUTPUT_PATH)
     #df_fact_orders = fact_orders.build(data, OUTPUT_PATH)
 
     print("✅ Pipeline completado. Archivos guardados en warehouse/")

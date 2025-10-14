@@ -1,6 +1,10 @@
 # etl/transform/build_fact_payment.py
 import pandas as pd
 def build_fact_payment(data, output_path):
+    """
+    Genera una tabla de hechos payment con campos:
+     id, customer_id, campaign_id, paid_at_date_id, paid_at_time, amount, currency, payment_method, payment_status,transaction_id
+    """
     fact_payment = data["payments"].copy()
 
     # Cargamos dimension calendario
