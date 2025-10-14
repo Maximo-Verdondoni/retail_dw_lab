@@ -18,7 +18,7 @@ def build_fact_OrderMarketing(data, output_path):
     ]
 
     #campaign_id a int (si hay NaN, se pasa float)
-    fact_order_marketing["campaign_id"] = fact_order_marketing["campaign_id"].astype("int64")
+    fact_order_marketing["campaign_id"] = fact_order_marketing["campaign_id"].astype("Int64")
 
     # Creamos ID interno (surrogate key)
     fact_order_marketing["id"] = range(1, len(fact_order_marketing) + 1)
