@@ -1,4 +1,4 @@
-# etl/transform/build_dim_warehouse.py
+# etl/transform/build_dim_inventory.py
 import pandas as pd
 
 def build_fact_inventory(data, output_path):
