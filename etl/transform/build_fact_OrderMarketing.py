@@ -4,7 +4,7 @@ import pandas as pd
 def build_fact_OrderMarketing(data, output_path):
     """
     Genera una tabla de hechos OrderMarketing con campos:
-    id, order_id,channel_id,campaign_id,utm_source,utm_medium,utm_campaign,utm_content,utm_term
+    id,campaign_id,customer_id,product_id, utm_source,utm_medium,utm_campaign,utm_content,utm_term
     """
     fact_order_marketing = data["order_marketing"].copy()
 
@@ -50,7 +50,7 @@ def build_fact_OrderMarketing(data, output_path):
     cols = ["id", "campaign_id", "customer_id", "product_id",
     "utm_source", "utm_medium", "utm_campaign", "utm_content", "utm_term"]
 
-    fact_order_marketing = fact_order_marketing[[c for c in cols if c in fact_order_marketing.columns]]
+    fact_order_marketing = fact_order_marketing[cols]
 
     # Guardamos en warehouse/fact
     file_path = output_path / "fact" / "fact_OrderMarketing.csv"
