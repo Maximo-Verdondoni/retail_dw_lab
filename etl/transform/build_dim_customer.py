@@ -56,9 +56,12 @@ def build_dim_customer(data: dict, output_path):
     dim_customer['created_at_time_address'] = dim_customer['created_at'].dt.time
     dim_customer = dim_customer.drop(columns=['created_at'])
 
+    #Creamos id surrogada
+    dim_customer['id'] = range(1, len(dim_customer) + 1)
+
     #Reordenamos columnas
     cols = [
-        "customer_id", "first_name", "last_name", "email", "phone", "gender",
+        "id", "first_name", "last_name", "email", "phone", "gender",
         "birth_date", "created_at_date_id", "created_at_time", "marketing_opt_in",
         "address_type", "street", "city", "province", "country_code", "postal_code",
         "created_at_date_address", "created_at_time_address", "is_primary"
