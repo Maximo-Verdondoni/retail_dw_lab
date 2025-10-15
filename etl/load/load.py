@@ -31,7 +31,6 @@ def run_pipeline():
     df_fact_payment = build_fact_payment(data, OUTPUT_PATH)
     df_fact_order_item = build_fact_order_item(data, OUTPUT_PATH)
     df_fact_order = build_fact_order(data, OUTPUT_PATH)
-    #df_fact_orders = fact_orders.build(data, OUTPUT_PATH)
 
     print("✅ Pipeline completado. Archivos guardados en warehouse/")
 
